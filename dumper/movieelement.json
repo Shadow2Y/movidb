@@ -1,0 +1,50 @@
+{
+  "canRate": true,
+  "certificate": "A",
+  "creators": [],
+  "directors": [],
+  "endYear": null,
+  "genres": [
+    "Drama"
+  ],
+  "hasWatchOption": false,
+  "metascore": 82,
+  "originalTitleText": "The Shawshank Redemption",
+  "plot": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+  "primaryImage": {
+    "caption": "Tim Robbins in The Shawshank Redemption (1994)",
+    "id": "rm1690056449",
+    "height": 1800,
+    "url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+    "width": 1200
+  },
+  "ratingSummary": {
+    "aggregateRating": 9.3,
+    "voteCount": 3021501
+  },
+  "releaseYear": 1994,
+  "releaseDate": {
+    "day": 14,
+    "month": 10,
+    "year": 1994,
+    "__typename": "ReleaseDate"
+  },
+  "productionStatus": {
+    "currentProductionStage": {
+      "id": "released",
+      "text": "Released",
+      "__typename": "ProductionStage"
+    },
+    "__typename": "ProductionStatusDetails"
+  },
+  "runtime": 8520,
+  "titleId": "tt0111161",
+  "titleText": "The Shawshank Redemption",
+  "titleType": {
+    "canHaveEpisodes": false,
+    "id": "movie",
+    "text": ""
+  },
+  "topCast": [],
+  "trailerId": "vi3877612057"
+}
